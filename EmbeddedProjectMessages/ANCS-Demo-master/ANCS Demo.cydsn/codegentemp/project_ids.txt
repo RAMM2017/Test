@@ -1,0 +1,5 @@
+C:\Users\Ronald.Arvanites\Desktop\EmbeddedProject\ANCS-Demo-master\ANCS Demo.cydsn\ANCS Demo.cyprj|8cf63af7-71df-4574-95c2-00147653e161
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8d471703-43b0-4505-bed0-679d551a1504
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|839e500c-5166-4627-bb10-6a92a87955d0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e53462a3-251f-420f-8d3f-e3bd1d1dece5
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|73526e5c-2b55-4fd5-8960-6eca399aa835
